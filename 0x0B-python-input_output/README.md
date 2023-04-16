@@ -1,1 +1,2 @@
-Python input/output project
+Python input/output project.
+Working with files in python.
